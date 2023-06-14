@@ -1,4 +1,4 @@
-# Group-Genius
+# Group Genius
 ## (Group Creation Tool)
 
 

@@ -2,6 +2,8 @@
 ## (Group Creation Tool)
 
 
+# Note: Run auto_setup in order to use the program as it downloads the requirements needed
+
 ## 0.1.0 Introduction
 ### What is Group Genius?
 Group Genius is a command-line interface group creation tool designed for educators, sports teams, and various other applications. It serves as an advanced group generator, offering a multitude of customization options while maintaining user-friendly functionality.

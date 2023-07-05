@@ -2,7 +2,8 @@
 ## (Group Creation Tool)
 
 
-# Note: Run auto_setup in order to use the program as it downloads the requirements needed
+# Note: This tool is in early stages of its development and is currently being worked on more updates will be posted but currently not much works besides everything to do with presets. 
+Run auto_setup in order to use the program as it downloads the requirements needed
 
 ## 0.1.0 Introduction
 ### What is Group Genius?

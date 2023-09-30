@@ -1,0 +1,7 @@
+__pycache__/
+google_main/__pycache__
+.vscode/
+credentials.json
+token.json
+core/__pycache__
+Dev

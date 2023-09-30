@@ -1,0 +1,22 @@
+Any application that uses OAuth 2.0 to access Google APIs must have authorization credentials that identify the application to Google's OAuth 2.0 server. The following steps explain how to create credentials for your project. Your applications can then use the credentials to access APIs that you have enabled for that project.
+
+Go to the Credentials page.
+Click Create credentials > OAuth client ID.
+Select the Desktop application application type.
+Name your OAuth 2.0 client and click Create
+Now goto the OAuth consent screen and select edit app.
+Scroll down and hit continue.
+Once on the scopes page add these two scopes:
+https://www.googleapis.com/auth/classroom.courses.readonly
+https://www.googleapis.com/auth/classroom.rosters.readonly
+Click save and continue for the rest of the options and then your done with that.
+
+Go back to the credentials tab.
+Now click on the credentials you just made. Ex: https://streamable.com/6huh59
+After that you will be brought to a page you should see client secret at the bottom right.
+There will be a download icon, download the file.
+Go into the group genius folder where main.py is located and drag and drop/paste the downloaded .json file into the folder.
+Re-name the file to credentials.json (You wont have to add the .json it should already be there).
+After that your done you can now login with your google account in order to fetch names from your classes.
+
+Again I know this is annoying but there is nothing I can do as of right now.
